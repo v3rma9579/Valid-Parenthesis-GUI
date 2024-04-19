@@ -1,10 +1,12 @@
 # Valid-Parenthesis-GUI
 GUI based application on pushdown automata for accepting valid parenthesis built with tkinter python.
 
+[![](assests/built-with-python.svg)](https://www.python.org/)  [![](assests/powered-by-tkinter.svg)](https://docs.python.org/3/library/tkinter.html) 
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/v3rma9579)
 
 
-### Dependencies
+### Setup
 
   ##### Clone the repository
 ```bash
@@ -29,3 +31,11 @@ pip install tk
 ```bash
 pip install turtle
 ```
+
+
+### Screenshots
+
+![](assests/valid.png)
+
+
+![](assests/invalid.png)
